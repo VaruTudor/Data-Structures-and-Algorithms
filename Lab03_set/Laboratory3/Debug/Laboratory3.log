@@ -1,0 +1,6 @@
+﻿  ExtendedTest.cpp
+C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory3\Laboratory3\ExtendedTest.cpp(149,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory3\Laboratory3\ExtendedTest.cpp(156,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory3\Laboratory3\ExtendedTest.cpp(207,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory3\Laboratory3\ExtendedTest.cpp(214,20): warning C4101: 'ex': unreferenced local variable
+  Laboratory3.vcxproj -> C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory3\Debug\Laboratory3.exe

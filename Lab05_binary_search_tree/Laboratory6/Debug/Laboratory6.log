@@ -1,0 +1,5 @@
+﻿  BST.cpp
+  ShortTest.cpp
+  Generating Code...
+C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory6\Laboratory6\BST.cpp(55): warning C4715: 'BST::search_rec_ret': not all control paths return a value
+  Laboratory6.vcxproj -> C:\Users\Tudor\Desktop\D\faculta\SemII\SDA\Laboratory6\Debug\Laboratory6.exe
